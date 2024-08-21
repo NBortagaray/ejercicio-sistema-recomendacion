@@ -1,8 +1,5 @@
 # Ejercicio Sistema Recomendación
-
-Ejercicio sobre sistemas de recomendación realizado para la Diplomatura de Ciencias de Datos de Icaro
-
-# Ejercicio Sistema Recomendación
+Grupo 4
 
 ## Descripción
 
